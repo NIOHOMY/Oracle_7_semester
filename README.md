@@ -1,5 +1,7 @@
 # Oracle_7_semester
 
+Иструкцию по установке и созданию OracleDB с VScode смотреть [тут](https://github.com/Niapollab/Relational-databases_7-semester/blob/master/README.md)
+
 ### Лаболаторная 1
 
 Сделать выборку из таблицы UNIVERSITY с использованием курсора и <br/>
